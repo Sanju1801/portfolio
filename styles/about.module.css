@@ -1,0 +1,19 @@
+.container {
+    background-color: var(--secondary);
+  }
+  
+  .content {
+    display: flex;
+    flex-direction: column;
+    /* gap: 0.5rem; */
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.8;
+  }
+  
+  .content p {
+    font-size: 1.1rem;
+    text-align: center;
+
+  }
+  

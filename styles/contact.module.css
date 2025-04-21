@@ -1,0 +1,56 @@
+.contactSection {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem 0.2rem;
+  width: 100%;
+  border-bottom: 1px solid var(--primary);;
+}
+
+.contactInfo {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+.infoItem {
+  display: flex;
+  align-items: flex-start;
+  gap: .8rem;
+}
+
+.icon {
+  color: var(--primary);
+}
+
+.infoTitle {
+  font-size: 1rem;
+  font-weight: 500;
+  margin: 0;
+}
+
+.infoValue {
+  color: var(--muted-foreground);
+}
+
+.socialLinks {
+  display: flex;
+  gap: 1rem;
+}
+
+.socialLink {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: var(--accent);
+  color: var(--accent-foreground);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.socialLink:hover {
+  background-color: var(--primary);
+  color: var(--primary-foreground);
+}
