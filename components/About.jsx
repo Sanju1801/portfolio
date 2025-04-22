@@ -15,7 +15,7 @@ export default function About() {
             applications that not only meet business requirements but also provide an exceptional user experience.
           </p>
           <p>
-            When I'm not coding, you can find me hiking, reading tech blogs, or experimenting with new technologies. I'm
+            When I'm not coding, you can find me reading tech blogs, novels or experimenting with new technologies. I'm
             always eager to learn and grow as a developer.
           </p>
         </div>
