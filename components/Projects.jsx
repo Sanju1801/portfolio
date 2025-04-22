@@ -7,7 +7,7 @@ export default function Projects() {
     {
       title: "Doctor's Appointment App",
       description: "A web application that allows users to book appointments with doctors. The app features a user-friendly interface for searching and selecting doctors, viewing available time slots, and managing appointments. It streamlines the process of scheduling medical consultations, making healthcare more accessible.",
-      image: "/doctors.png",
+      image: "/doctors.jpg",
       technologies: ["Next.js", "PostgreSQL", "Express.js", "Node.js"],
       liveLink: "#",
       githubLink: "https://github.com/Sanju1801/MedCare-FullStack",
@@ -15,7 +15,7 @@ export default function Projects() {
     {
       title: "Dictionay app",
       description: "A user-friendly web application that provides quick access to word definitions, synonyms, antonyms, and pronunciations. Key features include voice pronunciation. This app enhances vocabulary and supports effective communication, making it a valuable resource for students and professionals alike.",
-      image: "/dictionary.png",
+      image: "/dictionary.jpg",
       technologies: ["HTML", "CSS", "JavaScript"],
       liveLink: "https://sanju1801.github.io/Dictionary-app/",
       githubLink: "https://github.com/Sanju1801/Dictionary-app",
@@ -23,7 +23,7 @@ export default function Projects() {
     {
       title: "Calculator",
       description: "A multifunctional digital tool that performs standard arithmetic calculations and includes features for BMI calculation and currency conversion. The app utilizes an API for real-time currency exchange rates, making it easy to convert between currencies. With its user-friendly interface, the app is perfect for anyone looking to simplify both health and financial calculations.",
-      image: "/calculator.png",
+      image: "/calculator.jpg",
       technologies: ["HTML", "CSS", "JavaScript"],
       liveLink: "https://sanju1801.github.io/Calculator/",
       githubLink: "https://github.com/Sanju1801/Calculator",
