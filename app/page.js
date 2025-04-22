@@ -1,5 +1,5 @@
 'use client';
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import styles from '@/styles/home.module.css';
 import Hero from '@/components/Hero';
 import About from '@/components/About';
@@ -30,14 +30,13 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-      {isContactOpen && (
-        <Contact className={`${styles.contactBtn} ${styles.showContacts}`} />
-      )}
-      
-      <div className={styles.contactBtn} onClick={toggleMenu}>
-        Contact
-      </div>
-        {/* <p>© {new Date().getFullYear()} Your Name. All rights reserved.</p> */}
+        {isContactOpen && (
+          <Contact className={`${styles.contactBtn} ${styles.showContacts}`} />
+        )}
+
+        <div className={styles.contactBtn} onClick={toggleMenu}>
+          Contact
+        </div>
       </footer>
     </main>
   );

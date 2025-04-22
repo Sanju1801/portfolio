@@ -2,7 +2,7 @@ import "./globals.css";
 import { ThemeProvider } from "@/components/ThemeProvider";
 
 export const metadata = {
-  title: "Professional Portfolio",
+  title: "Portfolio",
   description: "A showcase of my professional work, skills, and experience",
 }
 

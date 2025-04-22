@@ -24,7 +24,6 @@ export default function Header() {
 
     return (
         <header className={styles.header}>
-        {/* <div className={styles.logo}>Portfolio</div> */}
         
         <div className={styles.menuIcon} onClick={toggleMenu}>
         {isMenuOpen ? <X size={24} /> : <Menu size={24} />}
@@ -47,14 +46,11 @@ export default function Header() {
             <li>
               <a href="#skills">Skills</a>
             </li>
-            {/* <li>
-              <a href="#footer">Contact</a>
-            </li> */}
           </ul>
         </nav>
         <div className={`${styles.actions} ${isMenuOpen ? styles.showMenu : ''}`}>
 
-          {/* <DownloadButton /> */}
+          <DownloadButton />
           <ThemeToggle />
         </div>
       </header>
