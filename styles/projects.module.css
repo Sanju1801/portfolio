@@ -35,6 +35,19 @@
     object-fit: cover;
     transition: transform 0.3s ease;
   }
+
+  .projectCompany {
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--muted-foreground);
+    margin-bottom: 0.25rem;
+  }
+
+  .projectPeriod {
+    font-size: 0.875rem;
+    color: var(--muted-foreground);
+    margin-bottom: 0.75rem;
+  }
   
   .projectCard:hover .projectImage {
     transform: scale(1.05);

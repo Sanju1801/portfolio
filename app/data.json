@@ -1,0 +1,220 @@
+{
+    "about": [
+        "I'm a Full Stack Engineer specializing in React and Next.js. I build responsive, accessible interfaces and reliable backend services, focusing on performance, maintainability, and developer experience.",
+        "Highlights: Built 15+ reusable UI components; implemented SSR and SEO optimizations; integrated PostgreSQL-backed APIs.",
+        "Tech: React, Next.js, Tailwind CSS, Node.js, Express, PostgreSQL, Git"
+    ],
+    "experiences": [
+        {
+            "title": "JS Full Stack Engineer",
+            "company": "To The New Pvt. Ltd.",
+            "period": "July 2025 - Present",
+            "location": "Noida, India",
+            "description": "Developed and maintained production-grade applications using React.js and Next.js across multiple client engagements.\nBuilt and enhanced 15+ reusable UI components with Tailwind CSS, accelerating feature delivery and ensuring cross-browser compatibility.\nIntegrated REST APIs for real-time data rendering and worked with backend teams to streamline application workflows.\nReviewed code and supported junior developers with debugging, improving team delivery quality.",
+            "technologies": [
+                "React.js",
+                "Next.js",
+                "Tailwind CSS",
+                "REST APIs",
+                "Git",
+                "GitLab",
+                "AWS CodeCommit"
+            ]
+        },
+        {
+            "title": "Full Stack Developer Intern",
+            "company": "To The New Pvt. Ltd.",
+            "period": "January 2025 - July 2025",
+            "location": "Noida, India",
+            "description": "Tech Stack: React.js, Next.js, Node.js, Express.js, PostgreSQL, Tailwind CSS.\nBuilt reusable frontend components and worked on backend API development and database operations using Node.js, Express.js, and PostgreSQL.\nParticipated in Agile sprints including bug fixing, code reviews, and source control using Git, GitLab, and AWS CodeCommit.",
+            "technologies": [
+                "React.js",
+                "Next.js",
+                "Node.js",
+                "Express.js",
+                "PostgreSQL",
+                "Tailwind CSS",
+                "Git",
+                "GitLab"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Computer Applications",
+            "institution": "University of Delhi",
+            "period": "2023 - 2025",
+            "description": "Specialized in Software Engineering and Web Technologies."
+        },
+        {
+            "degree": "Bachelor of Physical Science with Computer Science",
+            "institution": "Miranda House, University of Delhi",
+            "period": "2020 - 2023",
+            "description": "Focused on programming fundamentals, data structures, and algorithms."
+        }
+    ],
+    "projects": [
+        {
+            "title": "Tata Play Hotel Management System",
+            "company": "To The New Pvt. Ltd.",
+            "period": "Mar 2026 - Present",
+            "description": "Led UI improvements across multiple modules of an enterprise hotel management platform, enhancing usability and visual consistency.\nImplemented a concurrent login system supporting distinct Admin and Super Admin roles with session isolation and access control.\nDeveloped end-to-end UI pages and handled complex API integrations for dynamic content rendering across user workflows.",
+            "image": "",
+            "technologies": [
+                "React.js",
+                "SCSS",
+                "Tailwind CSS",
+                "Team collaboration",
+                "AWS CodeCommit",
+                "Git"
+            ],
+            "liveLink": "",
+            "githubLink": ""
+        },
+        {
+            "title": "Tata Play Live TV App",
+            "company": "To The New Pvt. Ltd.",
+            "period": "Dec 2025 - Mar 2026",
+            "description": "Implemented SEO across the entire platform including structured URL design, dynamic meta tags, and semantic markup to improve discoverability.\nResolved 15+ UI bugs and improved web accessibility compliance by applying WCAG 2.1 standards across key user journeys.\nOptimized page rendering and component structure, contributing to faster load times and a smoother viewing experience for end users.",
+            "image": "",
+            "technologies": [
+                "Next.js",
+                "SCSS",
+                "Tailwind CSS",
+                "Team collaboration",
+                "AWS CodeCommit",
+                "Git"
+            ],
+            "liveLink": "",
+            "githubLink": ""
+        },
+        {
+            "title": "MedCare Connect — Doctor Appointment Platform",
+            "description": "Developed a full stack doctor appointment platform enabling doctor discovery, appointment booking, and availability management.\nImplemented SSR using Next.js to improve SEO performance and initial page load speed.\nBuilt backend APIs using Node.js, Express.js, and PostgreSQL for appointment and user management workflows.",
+            "image": "",
+            "technologies": [
+                "Next.js",
+                "Node.js",
+                "Express.js",
+                "PostgreSQL",
+                "Authentication",
+                "REST APIs"
+            ],
+            "period": "2025",
+            "liveLink": "",
+            "githubLink": "https://github.com/Sanju1801/MedCare-FullStack"
+        },
+        {
+            "title": "SmartCalc",
+            "description": "A multifunctional digital tool that performs standard arithmetic calculations and includes features for BMI calculation and currency conversion. The app uses an API for real-time currency exchange rates.",
+            "image": "",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "liveLink": "https://sanju1801.github.io/Calculator/",
+            "githubLink": "https://github.com/Sanju1801/Calculator"
+        },
+        {
+            "title": "Dictionary app",
+            "description": "A user-friendly web application that provides quick access to word definitions, synonyms, antonyms, and pronunciations. Key features include voice pronunciation.",
+            "image": "",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "liveLink": "https://sanju1801.github.io/Dictionary-app/",
+            "githubLink": "https://github.com/Sanju1801/Dictionary-app"
+        }
+    ],
+    "skills": [
+        {
+            "category": "Frontend",
+            "skills": [
+                "React.js",
+                "Next.js",
+                "Tailwind CSS",
+                "HTML5",
+                "CSS3",
+                "SCSS",
+                "Responsive Web Design",
+                "JavaScript (ES6+)"
+            ]
+        },
+        {
+            "category": "Backend",
+            "skills": [
+                "Node.js",
+                "Express.js",
+                "REST APIs",
+                "Server-side rendering (SSR)"
+            ]
+        },
+        {
+            "category": "Databases",
+            "skills": [
+                "PostgreSQL",
+                "SQL",
+                "MySQL"
+            ]
+        },
+        {
+            "category": "Languages",
+            "skills": [
+                "JavaScript",
+                "C++",
+                "Python",
+                "Java"
+            ]
+        },
+        {
+            "category": "Tools & Platforms",
+            "skills": [
+                "Git",
+                "GitHub",
+                "GitLab",
+                "AWS CodeCommit",
+                "Postman",
+                "VS Code",
+                "JIRA"
+            ]
+        },
+        {
+            "category": "Concepts",
+            "skills": [
+                "Agile/Scrum",
+                "SEO",
+                "Web Accessibility (WCAG)",
+                "OOP",
+                "DBMS",
+                "Operating Systems",
+                "Data Structures & Algorithms",
+                "Responsive Web Design"
+            ]
+        }
+    ],
+    "contact": [
+        {
+            "type": "Email",
+            "value": "sanju.mca23.du@gmail.com",
+            "icon": "📧"
+        },
+        {
+            "type": "Phone",
+            "value": "+91 9518845823",
+            "icon": "📞"
+        }
+    ],
+    "socialLinks": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/sanju-kumari-1801/"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/Sanju1801"
+        }
+    ]
+}
