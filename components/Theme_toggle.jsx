@@ -1,7 +1,7 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import { useTheme } from "next-themes"
+import { useTheme } from "@teispace/next-themes"
 import { Sun, Moon } from "lucide-react"
 import styles from "@/styles/theme-toggle.module.css"
 

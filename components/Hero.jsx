@@ -11,7 +11,7 @@ export default function Hero() {
       </div>
       <div className={styles.imageContainer}>
         <Image
-          src="/photo.jpeg?height=200&width=300"
+          src="/photo.jpeg"
           alt="Profile"
           width={300}
           height={300}
