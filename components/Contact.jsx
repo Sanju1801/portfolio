@@ -9,7 +9,7 @@ export default function Contact() {
               <Mail className={styles.icon} />
               <div>
                 <h3 className={styles.infoTitle}>Email</h3>
-                <p className={styles.infoValue}>sanju.mca23.du@gmail.com</p>
+                <p className={styles.infoValue}>sanju.km.sr18@gmail.com</p>
               </div>
             </div>
             <div className={styles.infoItem}>

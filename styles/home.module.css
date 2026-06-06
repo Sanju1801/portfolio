@@ -80,6 +80,16 @@
   
 }
 
+.backdrop {
+  position: fixed;
+  inset: 0;
+  background: transparent;
+  border: 0;
+  padding: 0;
+  margin: 0;
+  z-index: 9;
+}
+
 @media (max-width: 768px) {
   .header {
     flex-direction: column;
@@ -110,6 +120,7 @@
 
   .showMenu {
     display: flex;
+    align-items: end;
   }
 }
 
